@@ -32,9 +32,9 @@
      if you prefer a different one — they're all sitting at repo root.
      ================================================================ -->
 <div align="center">
-<img src="anime-star.png" width="260"/>
-<img src="anime-rose.png" width="260"/>
-     <img src="anime-star2.png" width="260"/>
+<img src="anime-star.jpg" width="230" height="500"/>
+<img src="anime-rose.png" width="230"  height="500"/>
+     <img src="anime-star1.jpg" width="230"  height="500"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
@@ -101,14 +101,10 @@
 <div align="center">
 
 <!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SANSKRITI01717&show_icons=true&theme=radical&hide_border=true&bg_color=1a0a2e&title_color=F472B6&icon_color=BE185D&text_color=E9D5FF&border_radius=12"/> -->
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SANSKRITI01717&theme=radical&hide_border=true&background=1a0a2e&stroke=BE185D&ring=F472B6&fire=9D174D&currStreakLabel=E9D5FF&border_radius=12"/>
-
-<br/><br/>
-
-<!-- Trophy row — adds badges for streaks, stars, PRs etc. for a
-     livelier feel than plain stat cards alone -->
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SANSKRITI01717&theme=radical&hide_border=true&background=1434A4&stroke=000000&ring=000000fire=000000&currStreakLabel=000000&border_radius=12"/>
 
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANSKRITI01717&theme=react-dark&hide_border=true&bg_color=1a0a2e&color=E9D5FF&line=F472B6&point=BE185D"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,25:BE185D,50:9D174D,75:6B21A8,100:1a0a2e&height=140&section=footer"/>Content
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&textBg=false&descAlign=81&descAlignY=69&fontAlign=100&fontAlignY=84"/>
+     
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,25:BE185D,50:9D174D,75:6B21A8,100:1a0a2e&height=140&section=footer"/> -->

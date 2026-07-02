@@ -32,14 +32,12 @@
      if you prefer a different one — they're all sitting at repo root.
      ================================================================ -->
 <div align="center">
-<img src="anime-star.jpg" width="230" height="500"/>
-<img src="anime-rose.png" width="230"  height="500"/>
-     <img src="anime-star1.jpg" width="230"  height="500"/>
+<img src="anime-star1.jpg" width="230"  height="500"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-## About Me
+
 
 <!-- ================= ABOUT ME ======================================
      Your exact text, kept as-is. Edit directly here if you ever
@@ -47,11 +45,9 @@
      ================================================================= -->
 <div align="center">
 
-> Student by day.<br>
 > Finding bugs wasn't the plan,<br>
 > but somehow it became the mission.<br>
-> If it works, I'm surprised.<br>
-> If it doesn't, I'm investigating.
+
 
 </div>
 
@@ -64,7 +60,7 @@
      "i=" list to add or remove skills. "sql" below covers MySQL.
      ================================================================= -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,express,react,mongodb,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,express,react,mongodb,mysql,tailwind,git&theme=dark" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>

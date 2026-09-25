@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
 
-<h1>Hi, I'm Sanskriti Shrivastava 👋</h1>
+<h1>Hi, I'm Sanskriti Shrivastava   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;</h1>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Why+spend+two+hours+planning%2C;when+you+can+spend+two+weeks+coding%3F+%F0%9F%98%84" alt="Typing SVG" />
 
@@ -101,7 +101,6 @@ $ status
 <br>
 
 <!-- ====================== 3D CONTRIBUTION GRAPH ====================== -->
-### 📊 3D Contribution Calendar
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
@@ -109,21 +108,10 @@ $ status
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%">
 </picture>
 
-> ⚠️ This image only appears **after** you add the workflow file below to this repo — GitHub Actions generates it from your contribution history. Instructions are in the second file I made for you.
+
 
 <br>
 
-<!-- ====================== GITHUB STATS ====================== -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="35%" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" width="60%" />
-
-</div>
-
-<br>
 
 <!-- ====================== CONNECT ====================== -->
 <div align="center">
@@ -136,5 +124,10 @@ $ status
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+<!-- ====================== PARTY PARROTS ====================== --> <div align="center">
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25">
 
 </div>
